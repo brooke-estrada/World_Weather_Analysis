@@ -1,6 +1,11 @@
-# ignored files
+# Adding config file
 config.py
-DS_Store./
+
+# Adding Additional files
+API_practice.ipynb
+random_numbers.ipynb
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
